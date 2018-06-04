@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_3fe352666c134102c10498433343eeaca699698c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_0a75962204ba02b01e5329dac78300af856b4062.jar" />
+    </item>
+    <item
+        jar="C:\Users\jcper-portatil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_48cb0b717a92a347741c61ba81828a9d1bb91c3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fde8b8467c6f435142c610ba971bda4e489bf4b6">
+        <dex dex="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\pre-dexed\debug\instant-run_68a380a1b5ea317fad5bd498bfbf202b58821e6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2b14576de3c7a26ef712aa69c30761cfa673aa32">
+        <dex dex="C:\Users\jcper-portatil\AndroidStudioProjects\ContactsList\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4fc3beb9316ca52b5b05b64837fdc904bed3d133.jar" />
+    </item>
+
+</items>
